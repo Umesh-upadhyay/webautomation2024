@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-24T18:53:33 IST" name="Default suite" finished-at="2024-09-24T18:53:49 IST" duration-ms="15696">
+    <groups>
+    </groups>
+    <test started-at="2024-09-24T18:53:33 IST" name="Default test" finished-at="2024-09-24T18:53:49 IST" duration-ms="15696">
+      <class name="com.qa.AutomationExercise.page_test.Sign_Up_Page_Test">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.AutomationExercise.page_test.Sign_Up_Page_Test@268f106e]" started-at="2024-09-24T18:53:33 IST" name="setup" finished-at="2024-09-24T18:53:38 IST" duration-ms="5534" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Correct_login()[pri:2, instance:com.qa.AutomationExercise.page_test.Sign_Up_Page_Test@268f106e]" started-at="2024-09-24T18:53:38 IST" name="Correct_login" description="login with correct credentials" finished-at="2024-09-24T18:53:42 IST" duration-ms="3427" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Correct_login -->
+        <test-method is-config="true" signature="tear_Down()[pri:0, instance:com.qa.AutomationExercise.page_test.Sign_Up_Page_Test@268f106e]" started-at="2024-09-24T18:53:42 IST" name="tear_Down" finished-at="2024-09-24T18:53:49 IST" duration-ms="6654" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tear_Down -->
+      </class> <!-- com.qa.AutomationExercise.page_test.Sign_Up_Page_Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
