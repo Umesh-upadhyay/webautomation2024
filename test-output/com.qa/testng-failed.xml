@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite parallel="tests" name="Failed suite [com.qa]" guice-stage="DEVELOPMENT" verbose="3">
+  <test thread-count="5" parallel="tests" name="Test(failed)" verbose="3">
+    <classes>
+      <class name="com.qa.AutomationExercise.page_test.Sign_Up_Page_Test">
+        <methods>
+          <include name="correct_Login_Credentials"/>
+          <include name="Page_verification"/>
+          <include name="setup"/>
+          <include name="incorrect_Login_Credentials"/>
+          <include name="tear_Down"/>
+          <include name="Already_Signup_credentials"/>
+        </methods>
+      </class> <!-- com.qa.AutomationExercise.page_test.Sign_Up_Page_Test -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [com.qa] -->

@@ -1,0 +1,274 @@
+19:18:46.505 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Sign up name entered: laxit sharma
+19:18:46.998 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Sign up email entered: laxit@gmal.com
+19:18:51.813 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Clicked on the signup button.
+19:20:28.817 [TestNG-test-Test-1] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Sign up name entered: laxit sharma
+19:20:29.362 [TestNG-test-Test-1] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Sign up email entered: laxit@gmal.com
+19:20:32.053 [TestNG-test-Test-1] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Clicked on the signup button.
+21:49:03.580 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Sign up name entered: laxit sharma
+21:49:03.706 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Sign up email entered: laxit@gmal.com
+21:49:05.780 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Clicked on the signup button.
+22:00:04.879 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Sign up name entered: laxit sharma
+22:00:05.021 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Sign up email entered: laxit@gmal.com
+22:00:08.403 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Clicked on the signup button.
+22:05:54.344 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Sign up name entered: laxit sharma
+22:05:54.490 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Sign up email entered: laxit@gmal.com
+22:06:01.972 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Clicked on the signup button.
+22:07:50.829 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Sign up name entered: laxit sharma
+22:07:50.967 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Sign up email entered: laxit@gmal.com
+22:07:55.809 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Clicked on the signup button.
+22:11:59.313 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Sign up name entered: laxit sharma
+22:11:59.459 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Sign up email entered: laxit@gmal.com
+22:12:01.082 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Clicked on the signup button.
+22:12:56.736 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Sign up name entered: laxit sharma
+22:12:56.882 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Sign up email entered: laxit@gmal.com
+22:12:58.228 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Clicked on the signup button.
+22:17:54.447 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Sign up name entered: laxit sharma
+22:17:54.596 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Sign up email entered: laxit@gmal.com
+22:17:59.236 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Clicked on the signup button.
+22:26:21.507 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Sign up name entered: laxit sharma
+22:26:21.791 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Sign up email entered: laxit@gmal.com
+22:26:25.905 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Clicked on the signup button.
+22:27:58.263 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Sign up name entered: laxit sharma
+22:27:58.403 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Sign up email entered: laxit@gmal.com
+22:28:00.348 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Clicked on the signup button.
+22:28:44.670 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Sign up name entered: laxit sharma
+22:28:44.938 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Sign up email entered: laxit@gmal.com
+22:28:46.977 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Clicked on the signup button.
+22:36:36.266 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Sign up name entered: laxit sharma
+22:36:36.385 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Sign up email entered: laxit@gmal.com
+22:36:37.914 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Sign up name entered: laxit sharma
+22:36:38.044 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Sign up email entered: laxit@gmal.com
+22:36:38.647 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Clicked on the signup button.
+22:36:42.077 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Clicked on the signup button.
+22:38:54.793 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Login email entered: laxit@gmal.com
+22:38:54.986 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Login password entered.
+22:38:56.120 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Clicked on the login button.
+22:39:29.378 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Sign up name entered: laxit sharma
+22:39:29.745 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Sign up email entered: laxit@gmal.com
+22:39:32.123 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Clicked on the signup button.
+22:39:32.547 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Clicked on 'Mr.' title.
+22:39:32.837 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Entered password.
+22:39:33.151 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Selected day: 26
+22:39:33.337 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Selected month: December
+22:39:33.503 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Selected year: 2006
+22:39:33.662 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Entered first name: umesh 
+22:39:33.760 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Entered last name: Vyas
+22:39:33.875 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Entered company name: secure meters
+22:39:34.001 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Entered address 1: Kaluram Ji
+22:39:34.143 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Entered address 2: shiv shakti
+22:39:34.296 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Entered state: Rajasthan
+22:39:34.397 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Entered city: Udaipur
+22:39:34.490 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Entered zipcode: 313001
+22:39:34.608 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Entered mobile number: 9782459026
+22:39:37.073 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Clicked on the 'Create Account' button.
+22:39:45.401 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - account successfully created
+08:39:41.150 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Sign up name entered: laxit sharma
+08:39:41.305 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Sign up email entered: laxit@gmal.com
+08:39:43.805 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Clicked on the signup button.
+08:44:13.302 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Sign up name entered: laxit sharma
+08:44:13.428 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Sign up email entered: laxit@gmal.com
+08:44:15.742 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Clicked on the signup button.
+08:45:13.872 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Sign up name entered: laxit sharma
+08:45:13.992 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Sign up email entered: laxit@gmal.com
+08:45:16.783 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Clicked on the signup button.
+08:45:17.099 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Login email entered: laxit@gmal.com
+08:45:17.235 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Login password entered.
+08:45:33.277 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Clicked on the login button.
+08:48:47.607 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Sign up name entered: laxit sharma
+08:48:47.774 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Sign up email entered: laxit@gmal.com
+08:48:50.631 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Clicked on the signup button.
+08:50:17.516 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Sign up name entered: laxit sharma
+08:50:17.677 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Sign up email entered: laxit@gmal.com
+08:50:19.500 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Clicked on the signup button.
+08:53:27.922 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Sign up name entered: laxit sharma
+08:53:28.075 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Sign up email entered: laxit@gmal.com
+08:53:30.365 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Clicked on the signup button.
+08:53:30.550 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Login email entered: laxit@gmal.com
+08:53:30.751 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Login password entered.
+08:53:51.737 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Clicked on the login button.
+08:56:07.971 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Sign up name entered: laxit sharma
+08:56:08.107 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Sign up email entered: laxit@gmal.com
+08:56:10.071 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Clicked on the signup button.
+08:59:54.792 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Sign up name entered: laxit sharma
+08:59:54.956 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Sign up email entered: laxit@gmal.com
+08:59:57.062 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Clicked on the signup button.
+08:59:57.311 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Login email entered: laxit@gmal.com
+08:59:57.551 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Login password entered.
+09:00:06.528 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Clicked on the login button.
+09:01:30.845 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Sign up name entered: laxit sharma
+09:01:30.982 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Sign up email entered: laxit@gmal.com
+09:01:33.530 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Clicked on the signup button.
+09:01:33.818 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Login email entered: laxit@gmal.com
+09:01:33.955 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Login password entered.
+09:01:42.334 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Clicked on the login button.
+09:03:46.171 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Sign up name entered: laxit sharma
+09:03:46.367 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Sign up email entered: laxit@gmal.com
+09:03:48.297 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Clicked on the signup button.
+09:03:48.646 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Login email entered: laxit@gmal.com
+09:03:48.805 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Login password entered.
+09:03:57.967 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Clicked on the login button.
+11:57:31.236 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Login email entered: umesh@g25mail.com
+11:57:31.366 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Login password entered.
+11:57:38.054 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Clicked on the login button.
+11:58:16.640 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Login email entered: umesh@g25mail.com
+11:58:16.782 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Login password entered.
+11:58:22.422 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Clicked on the login button.
+11:58:46.363 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Sign up name entered: umesh upadhyay
+11:58:46.529 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Sign up email entered: umesh@g25mail.com
+11:58:49.702 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Clicked on the signup button.
+11:58:49.954 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Clicked on 'Mr.' title.
+11:58:50.124 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Entered password.
+11:58:50.339 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Selected day: 26
+11:58:50.517 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Selected month: December
+11:58:50.691 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Selected year: 2006
+11:58:50.875 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Entered first name: umesh 
+11:58:51.020 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Entered last name: Upadhyay
+11:58:51.155 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Entered company name: secure meters
+11:58:51.309 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Entered address 1: Kaluram Ji badi gali no.2
+11:58:51.418 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Entered address 2: shiv shakti
+11:58:51.580 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Entered state: Rajasthan
+11:58:51.711 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Entered city: Udaipur
+11:58:51.820 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Entered zipcode: 313001
+11:58:51.939 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Entered mobile number: 9782459026
+11:58:56.680 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Clicked on the 'Create Account' button.
+11:59:00.789 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - account successfully created
+12:00:23.278 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Login email entered: umesh@g25mail.com
+12:00:23.503 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Login password entered.
+12:00:33.783 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Clicked on the login button.
+12:00:36.693 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Clicked on the 'Blue T-shirt' element.
+12:00:38.835 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Clicked on 'Add to Cart'.
+12:18:18.909 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Sign up name entered: umesh upadhyay
+12:18:19.200 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Sign up email entered: umesh@g25mail.com
+12:18:24.149 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Clicked on the signup button.
+21:38:10.665 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Sign up name entered: umesh upadhyay
+21:38:10.828 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Sign up email entered: umesh@g25mail.com
+21:38:12.547 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Clicked on the signup button.
+21:38:12.899 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Clicked on 'Mr.' title.
+21:38:13.835 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Entered password.
+21:38:14.065 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Selected day: 26
+21:38:14.200 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Selected month: December
+21:38:14.336 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Selected year: 2006
+21:38:14.476 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Entered first name: umesh 
+21:38:14.661 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Entered last name: Upadhyay
+21:38:14.833 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Entered company name: secure meters
+21:38:15.044 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Entered address 1: Kaluram Ji badi gali no.2
+21:38:15.166 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Entered address 2: shiv shakti
+21:38:15.315 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Entered state: Rajasthan
+21:38:15.430 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Entered city: Udaipur
+21:38:15.534 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Entered zipcode: 313001
+21:38:15.652 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Entered mobile number: 9782459026
+21:38:19.383 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Clicked on the 'Create Account' button.
+21:38:30.275 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - account successfully created
+21:38:47.856 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Login email entered: umesh@g25mail.com
+21:38:48.367 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Login password entered.
+21:39:03.736 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Clicked on the login button.
+21:39:08.210 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Clicked on the 'Blue T-shirt' element.
+21:39:10.293 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Clicked on 'Add to Cart'.
+22:03:02.824 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Login email entered: umesh@g25mail.com
+22:03:02.932 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Login password entered.
+22:03:07.002 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Clicked on the login button.
+22:03:48.952 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Login email entered: umesh@g25mail.com
+22:03:49.030 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Login password entered.
+07:06:31.771 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Sign up name entered: umesh upadhyay
+07:06:31.913 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Sign up email entered: umesh@g25mail.com
+07:06:34.012 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Clicked on the signup button.
+07:08:56.410 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Sign up name entered: umesh upadhyay
+07:08:56.494 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Sign up email entered: umesh@g25mail.com
+07:08:58.405 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Clicked on the signup button.
+07:10:58.522 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Login email entered: umesh@g25mail.com
+07:10:58.598 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Login password entered.
+07:11:03.801 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Clicked on the login button.
+07:15:55.967 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Login email entered: umesh@g25mail.com
+07:15:56.056 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Login password entered.
+07:16:01.356 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Clicked on the login button.
+07:16:20.658 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Login email entered: umesh@g25mail.com
+07:16:20.744 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Login password entered.
+07:16:26.924 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Clicked on the login button.
+07:16:44.776 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Sign up name entered: umesh upadhyay
+07:16:44.875 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Sign up email entered: umesh@g25mail.com
+07:16:46.902 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Clicked on the signup button.
+07:16:47.455 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Clicked on 'Mr.' title.
+07:16:47.598 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Entered password.
+07:16:47.762 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Selected day: 26
+07:16:47.958 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Selected month: December
+07:16:48.168 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Selected year: 2006
+07:16:48.308 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Entered first name: umesh 
+07:16:48.442 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Entered last name: Upadhyay
+07:16:48.589 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Entered company name: secure meters
+07:16:48.773 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Entered address 1: Kaluram Ji badi gali no.2
+07:16:48.874 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Entered address 2: shiv shakti
+07:16:48.980 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Entered state: Rajasthan
+07:16:49.062 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Entered city: Udaipur
+07:16:49.157 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Entered zipcode: 313001
+07:16:49.242 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Entered mobile number: 9782459026
+07:16:51.219 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Clicked on the 'Create Account' button.
+07:17:03.903 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - account successfully created
+07:18:57.409 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Login email entered: umesh@g25mail.com
+07:18:57.519 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Login password entered.
+07:19:16.842 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Clicked on the login button.
+07:19:27.535 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Login email entered: umesh@g25mail.com
+07:19:27.617 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Login password entered.
+07:19:43.776 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Clicked on the login button.
+07:19:46.163 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Clicked on the 'Blue T-shirt' element.
+07:19:48.246 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Clicked on 'Add to Cart'.
+07:20:54.568 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Login email entered: umesh@g25mail.com
+07:20:54.650 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Login password entered.
+07:21:04.416 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Clicked on the login button.
+07:21:06.784 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Clicked on the 'Blue T-shirt' element.
+07:21:08.851 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Clicked on 'Add to Cart'.
+07:22:13.492 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Login email entered: umesh@g25mail.com
+07:22:13.643 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Login password entered.
+07:22:29.603 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Clicked on the login button.
+07:22:32.744 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Clicked on the 'Blue T-shirt' element.
+07:22:34.807 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Clicked on 'Add to Cart'.
+07:23:16.180 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Login email entered: umesh@g25mail.com
+07:23:16.258 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Login password entered.
+07:23:30.036 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Clicked on the login button.
+07:23:34.081 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Clicked on the 'Blue T-shirt' element.
+07:23:36.126 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Clicked on 'Add to Cart'.
+07:25:59.913 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Login email entered: umesh@g25mail.com
+07:26:00.040 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Login password entered.
+07:26:12.823 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Clicked on the login button.
+07:26:16.934 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Clicked on the 'Blue T-shirt' element.
+07:26:18.991 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Clicked on 'Add to Cart'.
+07:32:01.964 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Login email entered: umesh@g25mail.com
+07:32:02.050 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Login password entered.
+07:32:15.480 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Clicked on the login button.
+07:32:17.748 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Clicked on the 'Blue T-shirt' element.
+07:32:19.802 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Clicked on 'Add to Cart'.
+11:17:32.029 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Sign up name entered: umesh upadhyay
+11:17:32.196 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Sign up email entered: umesh@g25mail.com
+11:17:34.320 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Clicked on the signup button.
+11:28:55.015 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Sign up name entered: umesh upadhyay
+11:28:55.180 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Sign up email entered: umesh@g25mail.com
+11:28:58.229 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Clicked on the signup button.
+11:28:58.454 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Login email entered: umesh@g25mail.com
+11:28:58.746 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Login password entered.
+11:29:05.828 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Clicked on the login button.
+11:38:40.010 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Sign up name entered: umesh upadhyay
+11:38:40.185 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Sign up email entered: umesh@g25mail.com
+11:38:42.803 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Clicked on the signup button.
+11:40:24.102 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Sign up name entered: umesh upadhyaykk
+11:40:24.284 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Sign up email entered: umesh@g2jjj5mail.com
+11:40:26.287 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Clicked on the signup button.
+11:40:26.532 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Clicked on 'Mr.' title.
+11:40:26.953 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Entered password.
+11:40:27.332 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Selected day: 26
+11:40:27.560 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Selected month: December
+11:40:27.736 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Selected year: 2006
+11:40:27.948 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Entered first name: umesh 
+11:40:28.115 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Entered last name: Upadhyay
+11:40:28.366 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Entered company name: secure meters
+11:40:28.582 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Entered address 1: Kaluram Ji badi gali no.2
+11:40:28.723 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Entered address 2: shiv shakti
+11:40:28.892 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Entered state: Rajasthan
+11:40:29.005 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Entered city: Udaipur
+11:40:29.106 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Entered zipcode: 313001
+11:40:29.239 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Entered mobile number: 9782459026
+11:40:32.138 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Clicked on the 'Create Account' button.
+11:40:35.523 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - account successfully created
+11:41:04.339 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Login email entered: umesh@g2jjj5mail.com
+11:41:04.507 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Login password entered.
+11:41:12.516 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Clicked on the login button.
+11:41:19.610 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Clicked on the 'Blue T-shirt' element.
+11:41:21.743 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Clicked on 'Add to Cart'.
