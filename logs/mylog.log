@@ -272,3 +272,6 @@
 11:41:12.516 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Clicked on the login button.
 11:41:19.610 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Clicked on the 'Blue T-shirt' element.
 11:41:21.743 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Clicked on 'Add to Cart'.
+12:06:10.281 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Login email entered: umesh@g2jjj5mail.com
+12:06:10.364 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Login password entered.
+12:06:15.053 [main] INFO  com.qa.AutomationExercise.Utils.Eleutilnew - Clicked on the login button.
