@@ -23,7 +23,8 @@ public class KK {
 	String Linklist2 = e.getText();
 	String URL = e.getAttribute("href");
 	count ++;
-	System.out.println(Linklist2 + "======" + URL);
+	System.out.println(Linklist2 + "======:" + URL);
+	System.out.println(Linklist2 + "======:" + URL);
 	
 	}
 	
